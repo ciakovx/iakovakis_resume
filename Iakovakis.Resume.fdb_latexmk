@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1583168842 "Iakovakis.Resume.tex" "Iakovakis.Resume.pdf" "Iakovakis.Resume" 1583168843
+["pdflatex"] 1583190767 "Iakovakis.Resume.tex" "Iakovakis.Resume.pdf" "Iakovakis.Resume" 1583190768
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -53,12 +53,12 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "Iakovakis.Resume.aux" 1583168843 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "Iakovakis.Resume.out" 1583168843 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Iakovakis.Resume.tex" 1582667926 17327 a41b9cdfaf7ab377683fadbdffe8f8c5 ""
+  "Iakovakis.Resume.aux" 1583190768 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "Iakovakis.Resume.out" 1583190767 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Iakovakis.Resume.tex" 1583190764 19031 ca992f288404a839d2f260463bb6ebed ""
   "resume.cls" 1526824928 6579 506306accc283197316f535801806bcf ""
   (generated)
   "Iakovakis.Resume.out"
-  "Iakovakis.Resume.aux"
   "Iakovakis.Resume.pdf"
+  "Iakovakis.Resume.aux"
   "Iakovakis.Resume.log"
