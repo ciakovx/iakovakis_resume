@@ -1,0 +1,37 @@
+---
+author:
+- Clarke Iakovakis
+closing: Sincerely,
+closing-indentation: 0pt
+geometry: left=1in,right=1in,top=1.25in,bottom=1.2in
+opening: To the *Journal of Librarianship & Scholarly Communication* Editors & Editorial
+  Board,
+output: pdf_document
+return-address:
+- Clarke Iakovakis
+- clarke.iakovakis@okstate.edu
+- 405-744-9743
+- Scholarly Services Librarian
+- Edmon Low Library
+- Oklahoma State University
+signature: IakovakisSignature.pdf
+signature-after: 0ex
+signature-before: -8ex
+urlcolor: blue
+---
+
+I am writing to express my interest in serving on the Editorial Board for the *Journal of Librarianship & Scholarly Communication*.
+
+I am a strong candidate for membership on the editorial board, with a graduate degree in information studies, extensive experience providing scholarly communications services, and active participation on the local, state, and national levels. I have ten years of employment in libraries, and over twenty years of employment in public service work.
+
+I am currently in my second week of appointment as Scholarly Services Librarian at the Edmon Low Library at Oklahoma State University. I am responsible for providing leadership and vision to create advocacy programs that increase the visibility and impact of student and faculty research, advocating for author rights, and managing scholarly impact profiles and analytics. As Scholarly Communications Librarian at the University of Houston-Clear Lake, I developed working relationships with deans, tenure & promotion committees, and I have a proven record of successful collaboration to support critical needs in journal evaluation, impact metrics, author rights, and open access. 
+
+I have experience on a wide range of topics falling under the umbrella of librarianship and scholarly communication. I have consulted with faculty to collect journal, article, and author level citation metrics, and have experience writing custom scripts to clean and harvest citation data. Throughout my career as a librarian I have researched and advocated on issues pertaining to copyright and fair use, scholarly publishing, data archiving, and open educational resources. This prepared me to lead the university-wide transition from print to electronic theses and dissertations at UCHL. As the university did not have a separate graduate school, I chaired the library committee that successfully pitched the transition to the Provost, I developed policy and procedures, created Word templates, and formed partnerships with deans, faculty, department chairs, and advising coordinators. I administered the Vireo instance, and worked with technical services to develop metadata authority control in the Institutional Repository.  
+
+I am energetic and enthusiastic about working on the JLSC Board, and am very interested in taking an active role in the publication of the journal. The work of the journal has been of inestimable professional value to my work, and I would consider it an honor to be play a role in its publication. 
+
+I also have significant experience in other aspects of librarianship that intersect with scholarly communications work. I assist with digital scholarship needs; for instance, using R to extract and analyze Tweets, working with Institutional Effectiveness staff to geocode student addresses and analyze them in ArcGIS, and helping students locate datasets and prepare them for analysis and visualization. I continue to develop innovative workshops for students on R Programming and EndNote. My interest in data analysis and understanding collections usage has to collaborations with technical services staff on several projects to clean bibliographic and vendor data, and create interactive visualizations of our collections intended to help liaisons make better-informed purchasing decisions. 
+
+I maintain a high level of professional engagement. I serve on multiple library and shared governance university committees. I am current chair on the planning committee for the 2019 Texas Conference on Digital Libraries, and a board member for the Texas ETD Association. In May, I lead a three part webinar for ALCTS on [Introduction to R For Libraries](http://www.ala.org/alcts/confevents/upcoming/webinar/IntrotoR). I co-presented at ACRL 2017 on a [usability study using eye tracking software](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2017/IDontKnowWhatImLookingat.pdf), and at ALA 2017 on [methods for personalizing collection assessment](http://alcts.ala.org/news/2017/ac-personalizing-assessment/). I have helped organize and lead a [THATCamp](http://clearlake2017.thatcamp.org/) and multiple GIS Day events. I also remain engaged on an academic level, and am halfway through writing a thesis for a master's degree in history.
+
+In sum, I have well-rounded experience in multiple facets of librarianship where I have actively applied knowledge of scholarly communication. I also have a commitment to exploring new roles for libraries in the creation, dissemination, and exchange of information. I look forward to hearing from you.
