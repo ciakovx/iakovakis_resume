@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  2 MAR 2020 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  16 NOV 2020 15:29
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **Iakovakis.Resume.tex
 (./Iakovakis.Resume.tex
@@ -291,26 +290,31 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 41.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/marvosym/umvs.fd) [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4] [5]
-[6]
-Overfull \hbox (36.07455pt too wide) in paragraph at lines 198--231
+ [4]
+Overfull \hbox (7.25589pt too wide) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 Con-fer-ence. April 2020. hrefhttps://cadre.library.okstate.edu
+/data/presentations/2020/did-it-work-
+ []
+
+[5] [6]
+Overfull \hbox (36.07455pt too wide) in paragraph at lines 210--243
 [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 267.
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 267.
  (./Iakovakis.Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 267.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 267.
 Package rerunfilecheck Info: File `Iakovakis.Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 267.
  ) 
 Here is how much of TeX's memory you used:
  5904 strings out of 492616
  85053 string characters out of 6129482
- 185446 words of memory out of 5000000
+ 184446 words of memory out of 5000000
  9797 multiletter control sequences out of 15000+600000
  8226 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -322,10 +326,10 @@ r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/l
 ocal/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on Iakovakis.Resume.pdf (7 pages, 94772 bytes).
+Output written on Iakovakis.Resume.pdf (7 pages, 97427 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 110 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
